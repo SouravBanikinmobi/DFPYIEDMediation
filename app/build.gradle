@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "27.0.3"
+    defaultConfig {
+        applicationId "com.google.android.gms.example.interstitialexample"
+        minSdkVersion 14
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+    implementation 'com.inmobi.monetization:inmobi-ads:7.1.1'
+    implementation 'com.google.ads.mediation:inmobi:7.1.1.1'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.android.support:recyclerview-v7:26.1.0'
+    compile 'com.google.android.gms:play-services-base:15.0.1'
+    compile 'com.android.support:support-annotations:26.1.0'
+    compile 'com.android.support:design:26.1.0'
+}
