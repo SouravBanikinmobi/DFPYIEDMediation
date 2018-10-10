@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sourav.banik/Downloads/googleads-mobile-android-examples-master/java/doubleclick/InterstitialExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/sourav.banik/Documents/android/dfp/InterstitialExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/12c271dd62b1bed136397a6e7d8120d1/res/values-sw600dp-v13/values-sw600dp-v13.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sourav.banik/Downloads/googleads-mobile-android-examples-master/java/doubleclick/InterstitialExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "outputFile": "/Users/sourav.banik/Documents/android/dfp/InterstitialExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
             "map": [
                 {
                     "source": "/Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c258b7787bfa28c55681bde320bd5cca/res/values-az/values.xml",

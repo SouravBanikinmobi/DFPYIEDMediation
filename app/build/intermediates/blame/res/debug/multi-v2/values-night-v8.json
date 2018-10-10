@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sourav.banik/Downloads/googleads-mobile-android-examples-master/java/doubleclick/InterstitialExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/sourav.banik/Documents/android/dfp/InterstitialExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47d0b4a4373ec2b6f68c01ddbd7f1d5c/res/values-night-v8/values-night-v8.xml",
